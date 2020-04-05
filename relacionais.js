@@ -16,4 +16,4 @@ console.log('11)', d1.getTime() === d2.getTime())
 
 console.log('12)', undefined == null)
 console.log('13)', undefined === null)
-console.log('23')
+console.log('233')
